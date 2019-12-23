@@ -1,16 +1,17 @@
- # Computer Based Optimization Techniques
+ # Computer Based Optimization Techniques(cbot)
  
  - - - -
 
  ## Methods :
 
-* Johnsons Method
 * Simplex Method
+* Johnsons Method
 * Make Span Method
+* Primal to Dual Method
 
 ## Examples :
 
-#### equi_johnson.py
+#### Equi_johnson.py
 
 Sample Input :
 
