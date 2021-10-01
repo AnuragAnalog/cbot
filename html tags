@@ -1,0 +1,10 @@
+An anchor tag is a HTML element that creates a link to a target URL
+<a href="#"> The Link </a>
+
+Heading Tags
+<h1> Heading Tags </h1>
+<h2> Heading Tags </h2>
+<h3> Heading Tags </h3>
+<h4> Heading Tags </h4>
+<h5> Heading Tags </h5>
+<h6> Heading Tags </h6>
